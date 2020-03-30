@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NearbyDevices</string>
+
+    <string name="discover_nearby_devices">Discover nearby devices</string>
+    <string name="share_device_information">Share device information</string>
+    <string name="explanationText">Protect yourself from Coronavirus with <b>Bubble</b></string>
+    <string name="submit">Submit</string>
+    <string name="panic">Experiencing Symptoms? Click Here To Report.</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
